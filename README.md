@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31123318/README.md)
-App para generar cvs adaptados desde una job descripcion especifica.
-
 # Postulate
 
 Generador de CV, carta de presentación y email de postulación, adaptados automáticamente a cada aviso de trabajo que pegues.
